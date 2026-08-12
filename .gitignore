@@ -45,3 +45,19 @@ Desktop.ini
 
 ## Generated files
 Generated/
+
+## Graphify
+graphify-out/
+GRAPH_REPORT.md
+GRAPH_TREE.html
+
+## SpecKit
+.specify/backups/
+
+## Agents & AI Tools
+# Ignore runtime states, memory, logs, and sensitive data 
+# (Keep .agents/rules, .agents/workflows, and .agents/skills checked in)
+.agents/memory/
+.agents/logs/
+.agents/state/
+.agents/cache/
